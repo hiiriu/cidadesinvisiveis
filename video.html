@@ -7,27 +7,35 @@
 </head>
 <body>
      <div id="div_vid">
-         <video></video>
+         <video src="videos/Armila_01.mp4" autoplay muted></video>
        <!-- https://css-tricks.com/some-innocent-fun-with-html-video-and-progress/ -->
          <div id="botao_pausa">
              <button></button>
          </div>
 
-         <button class="setas" id="cima"><img></button>
-         <button class="setas" id="baixo"><img></button>
-         <button class="setas" id="direita"><img></button>
-         <button class="setas" id="esquerda"><img></button>
+         <button class="setas" id="cima">^<img></button>
+         <button class="setas" id="baixo">v<img></button>
+         <button class="setas" id="direita"> > <img></button>
+         <button class="setas" id="esquerda"><<img></button>
      </div>
 
      <div id="div_buttons">
-        <p id="nome_cidade"></p>
-        <button id="info"><img></button>
-        <button id="volume"></button>
+        <p id="nome_cidade">Armilia</p>
+        <button id="info"><img>informação</button>
+
+         <div id="num_vids">
+             <button id="menos">-</button>
+             <p>1/6</p>
+             <button id="mais">+</button>
+         </div>
+
          <div id="slideVolume">
+             <button id="volume">som</button>
              <input type="range" min="1" max="100" value="40" class="slider" id="myRange" >
          </div>
-        <p id="duration"></p>
+        <p id="duration">duração</p>
      </div>
 
+<script src="tudp.js"></script>
 </body>
 </html>

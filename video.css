@@ -1,0 +1,84 @@
+body{
+    background-color: #000000;
+    margin:0;
+    padding:0;
+    height:100vh;
+    width:100vw;
+    overflow: hidden;
+
+}
+
+#botao_pausa{
+    position:absolute;
+    left:13vw;
+    top:0;
+    z-index:40;
+    width:74vw;
+    height:88vh;
+    opacity: 0;
+}
+
+#botao_pausa:hover{
+    cursor:pointer;
+}
+.setas{
+    width:2vw;
+    height:2vw;
+    position:absolute;
+    z-index:50;
+}
+
+#cima{
+    top:0;
+    left:48vw;
+}
+#baixo{
+    bottom:12vh;
+    left:48vw;
+}
+#esquerda{
+    left:13vw;
+    top:43vh;
+}
+#direita{
+    right:13vw;
+    top:43vh;
+}
+#div_vid{
+    width:100vw;
+    height:88vh;
+    display:block;
+    z-index:-500;
+    padding:0 13vw 0 13vw;
+    justify-content: center;
+}
+
+video{
+    width: auto;
+    height:88vh;
+    z-index:-1000;
+}
+
+#div_buttons{
+    margin-top:2.5vh;
+    width:100vw;
+    height: 5vh;
+    float:bottom;
+    z-index: 100;
+    display: flex;
+    justify-content: space-evenly
+}
+
+p{
+    color:white;
+}
+
+#num_vids{
+    width:10vw;
+    display:flex;
+    justify-content: space-evenly;
+}
+
+#myRange{
+    display:none;
+}
