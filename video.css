@@ -8,6 +8,13 @@ body{
 
 }
 
+/*  --- VIDEO --- */
+video{
+    width: 100vw;
+    height:auto;
+    z-index:-1000;
+}
+
 #botao_pausa{
     position:absolute;
     left:13vw;
@@ -21,62 +28,37 @@ body{
 #botao_pausa:hover{
     cursor:pointer;
 }
-.setas{
+
+
+/* --- NAV CIDADES --- */
+.nav_cid{
     width:2vw;
     height:2vw;
-    position:absolute;
     z-index:50;
 }
 
-#cima{
+#cont_nav{
+    display:flex;
+    position:absolute;
+    width:100vw;
+    height:100vh;
+    justify-content: space-between;
+    flex-direction: column;
     top:0;
-    left:48vw;
-}
-#baixo{
-    bottom:12vh;
-    left:48vw;
-}
-#esquerda{
-    left:13vw;
-    top:43vh;
-}
-#direita{
-    right:13vw;
-    top:43vh;
-}
-#div_vid{
-    width:100vw;
-    height:88vh;
-    display:block;
-    z-index:-500;
-    padding:0 13vw 0 13vw;
-    justify-content: center;
+    left:0;
 }
 
-video{
-    width: auto;
-    height:88vh;
-    z-index:-1000;
+.nav_hori{
+    display:flex;
+    width:100vw;
+    height:auto;
+    justify-content: space-between;
+    flex-direction: row;
 }
 
-#div_buttons{
-    margin-top:2.5vh;
-    width:100vw;
-    height: 5vh;
-    float:bottom;
-    z-index: 100;
-    display: flex;
-    justify-content: space-evenly
-}
 
 p{
     color:white;
-}
-
-#num_vids{
-    width:10vw;
-    display:flex;
-    justify-content: space-evenly;
 }
 
 #myRange{

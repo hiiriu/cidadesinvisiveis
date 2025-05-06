@@ -6,19 +6,40 @@
     <link href="video.css" rel="stylesheet">
 </head>
 <body>
+    <!-- CONTAINER VIDEO FULL SCREEN -->
      <div id="div_vid">
          <video src="videos/Armila_01.mp4" autoplay muted></video>
        <!-- https://css-tricks.com/some-innocent-fun-with-html-video-and-progress/ -->
          <div id="botao_pausa">
              <button></button>
          </div>
-
-         <button class="setas" id="cima">^<img></button>
-         <button class="setas" id="baixo">v<img></button>
-         <button class="setas" id="direita"> > <img></button>
-         <button class="setas" id="esquerda"><<img></button>
      </div>
 
+    <!-- CONTAINER NAVEGACAO -->
+     <div id="cont_nav">
+         <div class="nav_hori">
+             <button class="nav_cid" id="ECima"> ^ <img></button>
+             <p>cidade</p>
+             <button class="nav_cid" id="DCima"> ^ <img></button>
+
+         </div>
+
+         <div  class="nav_hori">
+             <button class="nav_vid" id="EsqVid"> < <img></button>
+             <button class="nav_vid" id="DirVid"> > <img></button>
+
+         </div>
+
+         <div  class="nav_hori">
+             <button class="nav_cid" id="EBaixo"> v <img></button>
+             <button id="info">i</button>
+             <button class="nav_cid" id="DBaixo"> v <img></button>
+
+         </div>
+     </div>
+
+
+    <!--
      <div id="div_buttons">
         <p id="nome_cidade">Armilia</p>
         <button id="info"><img>informação</button>
@@ -35,7 +56,7 @@
          </div>
         <p id="duration">duração</p>
      </div>
-
+    -->
 <script src="tudp.js"></script>
 </body>
 </html>
