@@ -35,25 +35,57 @@ video{
 
 /* --- NAV CIDADES --- */
 .nav_cid{
-    width:4vw;
-    height:4vw;
+    opacity: 80%;
+    width:3.5vw;
+    height:3.5vw;
     z-index:50;
 
+}
+
+.nav_cid:hover{
+    opacity:100%;
+    cursor:pointer;
 }
 
 /* --- NAV VARIACOES CIDADE --- */
 .nav_vid{
-    width:4vw;
-    height:4vw;
+    opacity: 80%;
+    width:2.5vw;
+    height:5vw;
     z-index:50;
 
 }
 
+.nav_vid:hover{
+    cursor:pointer;
+    opacity:100%;
+}
+
 /* --- BOTAO INFO --- */
 #info{
-    width:4vw;
-    height:4vw;
+    width:auto;
+    height:3vw;
     z-index:50;
+}
+
+/* --- NOME CIDADE --- */
+#nomeCidade{
+    height:3vw;
+    width:10vw;
+    opacity:80%;
+    border-radius: 0 0 3.5vw 3.5vw;
+    background-color: black;
+    font-size: 1.5vw;
+    color:white;
+    font-family: Oswald, E sans-serif;
+    text-align: center;
+    align-content: flex-start;
+
+}
+
+#nomeCidade p{
+    margin:0.2vw 0 0.7vw 0;
+
 }
 
 #cont_nav{
@@ -75,6 +107,14 @@ video{
     flex-direction: row;
 }
 
+#info{
+    opacity: 80%;
+}
+
+#info:hover{
+    opacity:100%;
+    cursor:pointer;
+}
 
 p{
     margin:1vw;
