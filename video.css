@@ -21,11 +21,11 @@ video{
 
 #botao_pausa{
     position:absolute;
-    left:13vw;
+    left:0;
     top:0;
     z-index:40;
-    width:74vw;
-    height:88vh;
+    width:100vw;
+    height:100vh;
     opacity: 0;
 }
 
