@@ -1,0 +1,134 @@
+[
+    {
+        "ID": "0121",
+        "Cidade": "Armila",
+        "Titulo": "Armila",
+        "Autores": ["Andreia Ferreira Silva","Tânia Simões Costa","Tomás de Oliveira Fernandes"]
+    },
+    {
+        "ID": "0221",
+        "Cidade": "Valdrada",
+        "Titulo": "Valdrada",
+        "Autores": ["Bernardo André Duarte Herbert Macedo","Ester Santos Silva Gaio","Rita Antunes Simões"]
+    },
+    {
+        "ID": "0321",
+        "Cidade": "Ândria",
+        "Titulo": "Ândria",
+        "Autores": ["Lara Silveira da Luz","Luísa Sá Morgado Brito","Xinyi Liu"]
+    },
+    {
+        "ID": "0421",
+        "Cidade": "Eutrópia",
+        "Titulo": "Eutrópia",
+        "Autores": ["Alexandra Sofia Chambel Fernandes","Mafalda Cunha Lucas Pires Portugal","Mariana Salomé Lopes Rodrigues"]
+    },
+    {
+        "ID": "0521",
+        "Cidade": "Adelma",
+        "Titulo": "Adelma",
+        "Autores": ["Rafael Filipe Pereira Vital Capitão David","Rodrigo Manuel Alves Ingrês","Tomás Matias Ferreira"]
+    },
+    {
+        "ID": "0621",
+        "Cidade": "Octávia",
+        "Titulo": "A Queda",
+        "Autores": ["Maria Margarida de Lemos Mendonça","Nazaré Funte Cá"]
+    },
+    {
+        "ID": "0721",
+        "Cidade": "Leônia",
+        "Titulo": "Rotina",
+        "Autores": ["Gonçalo Pereira Pires","Margarida Tonel Figueiredo"]
+    },
+    {
+        "ID": "0821",
+        "Cidade": "Esmeraldina",
+        "Titulo": "Tortuosas Variantes",
+        "Autores": ["Daniela Sofia Correia China","Ema Lopes Gomes","Lara de Brito Caldeira"]
+    },
+    {
+        "ID": "0921",
+        "Cidade": "Eusápia",
+        "Titulo": "Switch",
+        "Autores": ["Carolina Hirvikallio Barbosa Formosinho Simões","Daniela Sousa Mendes","Filipa Orquídea Fernandes Ferreira"]
+    },
+    {
+        "ID": "1021",
+        "Cidade": "Armila",
+        "Titulo": "Armila",
+        "Autores": ["Constança Margarida Freire Correia","Francisca Aleixo Franco Ramos","Sofia Pereira da Silva e Oliveira Santos"]
+    },
+    {
+        "ID": "1121",
+        "Cidade": "Valdrada",
+        "Titulo": "Valdrada",
+        "Autores": ["Joana Mendes Azevedo","Lucas Bueno do Nascimento Almeida"]
+    },
+    {
+        "ID": "1221",
+        "Cidade": "Adelma",
+        "Titulo": "Roses of the Dead",
+        "Autores": ["Francisca Rodrigues de Oliveira","Guilherme Filipe Capelo Lopes","Márcia Maria Pinto Faria"]
+    },
+    {
+        "ID": "1321",
+        "Cidade": "Cecília",
+        "Titulo": "Cecília",
+        "Autores": ["Bruno Gabriel Alves Simões","Inês Mendes Gonçalves","Micael José dos Santos Nisa"]
+    },
+    {
+        "ID": "1421",
+        "Cidade": "Melânia",
+        "Titulo": "Viver po Ti",
+        "Autores": ["Catarina Gonçalves Anselmo","Inês Torres da Silva","Pedro Nuno Gil Monteiro"]
+    },
+    {
+        "ID": "1521",
+        "Cidade": "Procópia",
+        "Titulo": "Procópia",
+        "Autores": ["Francisco Ferreira Rodrigues","Jampier São João dos Reis","Lis Santos Crivellari"]
+    },
+    {
+        "ID": "1621",
+        "Cidade": "Diomira",
+        "Titulo": "As memórias",
+        "Autores": ["Ana Micaela das Neves Pimentel","Débora Margarida da Silva Patrício","Xavier Dias Ferreira"]
+    },
+    {
+        "ID": "1721",
+        "Cidade": "Eusápia",
+        "Titulo": "The Other Side",
+        "Autores": ["Diogo Gonçalves da Silva","Francisco Jorge Ventura","Lada Ryeznikova"]
+    },
+    {
+        "ID": "1821",
+        "Cidade": "Cloe",
+        "Titulo": "Cloe",
+        "Autores": ["Guilherme Lopes Almeida","Leonor Diniz Domingues","Teresa Colaço de Jesus Fernandes"]
+    },
+    {
+        "ID": "1921",
+        "Cidade": "Marósia",
+        "Titulo": "Marósia",
+        "Autores": ["Filipa Vilhena das Neves Albano","Gabriela Sobreiro Teixeira","Mafalda Ferreira de Almeida"]
+    },
+    {
+        "ID": "2021",
+        "Cidade": "Eutrópia",
+        "Titulo": "Eutrópia",
+        "Autores": ["Mariana Ribeiro da Fonseca Andrade Silva","Sara Gorecka Martins","Sofia Costa Gonçalves Carlos Santos"]
+    },
+    {
+        "ID": "2121",
+        "Cidade": "Melânia",
+        "Titulo": "Melânia",
+        "Autores": ["Beatriz Chaves Moura","Gonçalo Frias Figueiredo","Rita Jardim Cunha Lourenço"]
+    },
+    {
+        "ID": "2221",
+        "Cidade": "Eusápia",
+        "Titulo": "Eusápia",
+        "Autores": ["André Gonçalo Marques Esteves Reis Oliveira","Maria Rodrigues Carrilho","Maria Romano Cunha Morais"]
+    }
+]
